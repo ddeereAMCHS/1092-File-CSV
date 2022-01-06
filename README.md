@@ -20,4 +20,4 @@ Wallace, Bob, 25, 12.50, 40\
 Haynes, Betty, 16, 11.75, 25\
 ***Example Output:***\
 Phil Davis, $307.50\
-Bob Wallace, $500.00\
+Bob Wallace, $500.00
