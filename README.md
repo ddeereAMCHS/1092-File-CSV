@@ -9,3 +9,15 @@
   - Split the String on commas
   - Trim whitespace
   - For every person age 18 or older, print their name and the total wages earned that week
+
+***Example Input:***\
+input1.csv\
+***Example Contents of input1.txt:***\
+Last Name, First Name, Age, Hourly Wage, Hours Worked\
+Smith, Sally, 17, 9.50, 20\
+Davis, Phil, 18, 10.25, 30\
+Wallace, Bob, 25, 12.50, 40\
+Haynes, Betty, 16, 11.75, 25\
+***Example Output:***\
+Phil Davis, $307.50\
+Bob Wallace, $500.00\
