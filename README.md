@@ -1,6 +1,6 @@
 # File CSV
 
-## Due: DoW MM/DD at 11:59 PM
+## Due: Tue 1/17 at 11:59 PM
 
 - Create a program called `FileCSV.java`
 - Prompt the user for a filename
